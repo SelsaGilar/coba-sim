@@ -1,0 +1,3 @@
+materi pertemuan kedua sim :
+- koneksi data dari sql ke r
+- koneksi data excel ke r
