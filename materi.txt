@@ -4,3 +4,6 @@ materi pertemuan pertama sim :
 - review mk basis data
 - review ml statistika dasar
 
+materi pertemuan kedua sim :
+- koneksi data dari sql ke r
+- koneksi data excel ke r
